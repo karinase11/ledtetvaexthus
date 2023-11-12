@@ -1,7 +1,7 @@
 MATERIALS:
 [x]  Greenhouse
 [ ]  LEDs with adjustable wavelength*
-[ ]  Microcontroler (ESP32)
+[ ]  Microcontroler (ESP32) 45 x 6cm
 [ ]  Planters, seedlings, earth
 
 * The most effective wavelength for early vegetative growth is between 420 and 490 nm. 
